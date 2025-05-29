@@ -6,3 +6,12 @@ export interface WorkerProps {
     local:string
 }
 
+export interface ProductProps {
+    id: string;
+    nombre: string;
+    categoria: string;
+    precio: number;
+    stock: number;
+    local: string;
+}
+
