@@ -91,6 +91,7 @@ function App() {
           </select>
         </div>
       </div>
+      // hola
       <div className="w-full flex flex-col gap-10 justify-center items-stretch px-4">
         <div className="flex-1 flex flex-col items-center">
           <h2 className="text-2xl font-bold mb-4 text-blue-700">Villa Alemana</h2>
